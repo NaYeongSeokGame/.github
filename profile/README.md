@@ -1,12 +1,8 @@
-## Hi there 👋
+### 📅 스프린트 일정
+- 기획 단계 : **2023/06/21 ~ 2023/06/23** 매주 오후 10시 
+- 개발 단계 : **2023/06/24 ~ 2023/06/25** 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📚 스프린트 방식
+- 명령조 절대 금지! 서로 존중하면서 개발해보아요!
+- 모르면 모른다고 솔직하게 말하기! 같이 문제를 해결해나가요!
+- "내코드구려병" 극복하기. 우리 모두 학습하는 자세를 가져보아요!
